@@ -1,2 +1,2 @@
 # firsthw
-first web
+https://arafatanik09.github.io/firsthw/
